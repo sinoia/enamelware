@@ -1,0 +1,13 @@
+enamelware_venv/*
+*pyc
+*_env/*
+.ipynb_checkpoints
+build/
+dist/
+*.egg-info/
+*.egg
+*.py[cod]
+__pycache__/
+*.so
+*~
+
